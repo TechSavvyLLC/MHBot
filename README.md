@@ -1,0 +1,2 @@
+# MHBot
+MouseHunt Game autobot
